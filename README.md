@@ -18,7 +18,21 @@
 
 ## 💡 프로그램 소개
 
-[**🔗 [소프트웨어중심대학] LINE 개발자가 알려주는 React 입문 페이지 바로가기!**](https://sw.sookmyung.ac.kr/modules/board/bd_view.html?no=62&id=sw_notice&p=1&or=bd_order&al=asc) <br>
+1. 프로그램명: LINE 개발자가 알려주는 React 입문
+
+2. 일시: 24-03-19, 26, 04-02, 09, 16 (매주 화 5주), 18:30 ~ 21:30 (3h\*5회)
+
+3. 장소: 숙명여자대학교 명신관 101호
+
+4. 강사: 유동균 강사님 (現 '해치랩스', 前 'LINE Financial Plus')
+
+5. 참여 대상: SW참여학과 재학생 30명
+
+- 인공지능공학부(IT공학전공), 데이터사이언스전공(소프트웨어융합전공), 컴퓨터과학전공(CS)
+
+<br />
+
+🔗 [**[소프트웨어중심대학] LINE 개발자가 알려주는 React 입문 페이지 바로가기!**](https://sw.sookmyung.ac.kr/modules/board/bd_view.html?no=62&id=sw_notice&p=1&or=bd_order&al=asc) <br>
 
 > 새 창 열기 방법 : CTRL+click (on Windows and Linux) | CMD+click (on MacOS)
 
@@ -41,5 +55,13 @@
 <div id="3"></div>
 
 ## 💻 실습
+
+|                                         Lab01 - HTML                                         |
+| :------------------------------------------------------------------------------------------: |
+| <img src="./readme_assets//lab01.png" align="center" style="width: 700px" alt="APPS 소개" /> |
+
+|                                         Lab02 - CSS                                         |
+| :-----------------------------------------------------------------------------------------: |
+| <img src="./readme_assets/lab02.png" align="center" style="width: 700px" alt="APPS 소개" /> |
 
 <br />
