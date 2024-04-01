@@ -1,0 +1,43 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	padding: 0;
+	margin: 0;
+	background-color: #d2f3f8;
+}
+
+.container {
+	display: flex;
+	border-radius: 10px;
+	overflow: hidden;
+	width: 500px;
+	height: 300px;
+	background-color: #fff;
+}
+.container .item {
+	flex: 1;
+}
+.container .item img {
+	width: 100%;
+}
+.container .item .content-wrapper {
+	box-sizing: border-box;
+	padding: 20px 26px;
+	width: 100%;
+}
+.container .item .content-wrapper .tag {
+	font-family: "Courier New", Courier, monospace;
+	color: #796779;
+}
+.container .item .content-wrapper .title {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 30px;
+	margin-top: 2px;
+	font-weight: 600;
+}
+.container .item .content-wrapper .description {
+	color: #8b868b;
+	margin-top: 20px;
+}
